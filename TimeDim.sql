@@ -1,6 +1,6 @@
 /*
 Script Name : Time Dimension Population
-Author: Arghadeep Chaudhury
+Author: Arghadeep Chaudhury & Arindam Banerjee
 Created On : 01-Aug-2019
 Email : arghadeep.chaudhury@gmail.com
 Description : This Script Would populate the Time Dimension for the Time Dim Tables.
